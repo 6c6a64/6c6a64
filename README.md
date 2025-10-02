@@ -1,16 +1,16 @@
-## Hi there 👋
+# hi
 
-<!--
-**6c6a64/6c6a64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+backend dev • chaotic organized • open source
 
-Here are some ideas to get you started:
+this is my personal account.  
+if you’re after the stuff i do for a living → [Lea9250](https://github.com/Lea9250)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## stats
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=6c6a64&theme=tokyonight" alt="GitHub streak" />
+<br>
+  <img src="https://github-readme-stats.vercel.app/api?username=6c6a64&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6c6a64&layout=compact&langs_count=8&hide=css,scss,html&theme=tokyonight" alt="Top languages" />
+<br>
+</div>
